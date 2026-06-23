@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Short Quotes & Thoughts Share
 
 A compact, interactive web application designed for sharing short quotes, thoughts, and statements with proper source referencing. Users can read posts and react to them using a unique community-driven content filtering system.
@@ -23,17 +23,18 @@ A compact, interactive web application designed for sharing short quotes, though
 ### Prerequisites
 
 Before running this project locally, ensure you have **Node.js** installed on your system. For more detailed project specifications.
+```
 
 ### Installation & Setup
 
 Follow these quick steps to get the development environment running:
 
 1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/m-khalvati/Today-i-Learned.git](https://github.com/m-khalvati/Today-i-Learned.git)
-   cd Today-i-Learned
-   ```
-````
+
+```bash
+git clone [https://github.com/m-khalvati/Today-i-Learned.git](https://github.com/m-khalvati/Today-i-Learned.git)
+cd Today-i-Learned
+```
 
 2. **Install dependencies**
    Run the following command to download the required `node_modules`:
